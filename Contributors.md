@@ -200,6 +200,7 @@ Andrew Scheper
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Abdulganiyu Yusufu] (https://github.com/abdulg95)
 - [Andrew Kiselev](https://github.com/akiselev1)
+- [Tanner Stoker](https://github.com/Tanner016)
 - [Yudi](https:/i/github.com/yudi7ll)
 Daniel Jung
 - [Sebastiaan van den Berg](https://github.com/Primaat)
